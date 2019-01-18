@@ -1,0 +1,11 @@
+hilbert vectorization
+
+Linear regression
+
+Logistic regr.
+
+Random forest
+
+Decision tree
+
+svm
