@@ -1,6 +1,4 @@
 
-# EXTRA STUFF PRINT KIYA HAI
-# BUT I HAD NOT PRINTED THAT WHEN I SUBMITTED
 # def go(nn, mm):
 	# print("??????",nn,mm)
 	# arr = []
